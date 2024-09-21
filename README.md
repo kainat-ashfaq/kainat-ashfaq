@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kainat Ashfaq</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="coding" width="400px" src="https://img.freepik.com/free-vector/day-programmer-poster_1308-113966.jpg?ga=GA1.1.37985817.1726958115&semt=ais_hybrid"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kainat-ashfaq&label=Profile%20views&color=0e75b6&style=flat" alt="kainat-ashfaq" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kainat-ashfaq" alt="kainat-ashfaq" /></a> </p>
+<img align="right" margin-left="15%" alt="coding" width="350px" src="https://img.freepik.com/free-vector/day-programmer-poster_1308-113966.jpg?ga=GA1.1.37985817.1726958115&semt=ais_hybrid"/>
+
 
 - 👯 I’m looking to collaborate on **React Project**
 
